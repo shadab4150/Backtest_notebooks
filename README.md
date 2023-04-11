@@ -13,7 +13,8 @@ The file structure of this repository is as follows:
 backtest-reference-code
 │   README.md
 │   requirements.txt
-│   backtest.ipynb
+│   sample_backtest.ipynb
+|   sample_strategy_ibs.ipynb
 └───utils
     │   backtest_utils.py
 ```
