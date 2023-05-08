@@ -1,5 +1,5 @@
 # backtest-reference-code
-This is the repository that contains the reference code for model backtesting and validation.
+This is the repository that contains the code for model backtesting and validation.
 
 ### Key Features
 + The Futures data of SP500 is used for the backtest.
